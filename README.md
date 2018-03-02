@@ -4,7 +4,7 @@
 * [Makaleler](#Makaleler)
 * [Guide-Essay](#Guide-Essay)
 * [Eğitim Platformları](#Egitim-Platformlari)
-* [Devre Teorisi](#DevreTeorisi)
+* [Devre Teorisi](https://github.com/katipogluMustafa/linkler/blob/master/README.md#devreteorisi)
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
