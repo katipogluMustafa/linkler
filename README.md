@@ -1,6 +1,17 @@
 # linkler
 
 * [Devre Teorisi](#DevreTeorisi)
+* [Bilgisayar Ders](#BilgisayarDers)
+* [Makaleler](#Makaleler)
+
+# BilgisayarDers
+* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+
+# Videolar
+* [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
+
+# Makaleler
+* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
 # DevreTeorisi
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
@@ -13,7 +24,3 @@
 * [Ders 8: Solving Circuits with Kirchhoff's Laws - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=975198021001)
 * [Ders 9: Solving Circuits with Kirchhoff's Laws - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1013994248001)
 * [Ders 10: Solving Circuits with Kirchhoff's Laws - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1017555760001)
-
-# Bilgisayar Ders
-* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-
