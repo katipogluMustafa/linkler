@@ -3,7 +3,7 @@
 * [Bilgisayar Ders](#bilgisayar-ders)
 * [Makaleler](#makaleler)
 * [Guide-Essay](#guide-essay)
-* [Eğitim Platformları](#egitim-platformlari)
+* [Eğitim-ComputerScience](#egitim)
 * [Devre Teorisi](#devreteorisi)
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
@@ -24,7 +24,9 @@
 ### Guide-Essay
 * [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
 
-###  Egitim Platformlari
+###  Egitim
+* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
+
 
 ### DevreTeorisi
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
