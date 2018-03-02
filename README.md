@@ -1,9 +1,9 @@
 # linkler
 
-* [Bilgisayar Ders](#Bilgisayar-Ders)
-* [Makaleler](#Makaleler)
-* [Guide-Essay](#Guide-Essay)
-* [Eğitim Platformları](#Egitim-Platformlari)
+* [Bilgisayar Ders](https://github.com/katipogluMustafa/linkler/blob/master/README.md#Bilgisayar-Ders)
+* [Makaleler](https://github.com/katipogluMustafa/linkler/blob/master/README.md#Makaleler)
+* [Guide-Essay](https://github.com/katipogluMustafa/linkler/blob/master/README.md#Guide-Essay)
+* [Eğitim Platformları](https://github.com/katipogluMustafa/linkler/blob/master/README.md#Egitim-Platformlari)
 * [Devre Teorisi](https://github.com/katipogluMustafa/linkler/blob/master/README.md#devreteorisi)
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
