@@ -1,13 +1,14 @@
 # linkler
 
-* [Devre Teorisi](#DevreTeorisi)
-* [Bilgisayar Ders](#BilgisayarDers)
+* [Bilgisayar Ders](#Bilgisayar-Ders)
 * [Makaleler](#Makaleler)
-
-# BilgisayarDers
+* [Guide-Essay](#Guide-Essay)
+* [Eğitim Platformları](#Egitim-Platformlari)
+* [Devre Teorisi](#DevreTeorisi)
+### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
-# Videolar
+### Videolar
 * [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
 * [Who Invented the Internet? And Why?](https://www.youtube.com/watch?v=21eFwbb48sE)
 * [Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion](https://www.youtube.com/watch?v=wqH9KX9o0vg)
@@ -17,14 +18,15 @@
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 
-# Makaleler
+### Makaleler
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
-# Guide-Essay
+### Guide-Essay
 * [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
 
+###  Egitim Platformlari
 
-# DevreTeorisi
+### DevreTeorisi
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
 * [Ders 2: Overview of Basic Circuit Components](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=779763128001)
 * [Ders 3: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=790293867001)
