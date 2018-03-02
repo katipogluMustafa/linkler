@@ -9,6 +9,10 @@
 
 # Videolar
 * [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
+* [Who Invented the Internet? And Why?](https://www.youtube.com/watch?v=21eFwbb48sE)
+* [Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion](https://www.youtube.com/watch?v=wqH9KX9o0vg)
+* [History Of The Digital Camera](https://www.youtube.com/watch?v=PwHQnCoDbvI)
+* [Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion](https://www.youtube.com/watch?v=wqH9KX9o0vg)
 
 # Makaleler
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
