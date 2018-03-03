@@ -10,6 +10,8 @@
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
 ### Makaleler
+
+* [Computer graphics](http://www.explainthatstuff.com/computer-graphics.html)
 * [What is an IP Address ?](https://www.lifewire.com/what-is-an-ip-address-2625920)
 * [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
 * [The Essential Guide to Take-home Coding Challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
@@ -19,6 +21,8 @@
 
 
 ### Videolar
+
+* [What is Computer Graphics ?](https://www.youtube.com/watch?v=tW30D4KXu2A)
 * [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
 * [Who Invented the Internet? And Why?](https://www.youtube.com/watch?v=21eFwbb48sE)
 * [Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion](https://www.youtube.com/watch?v=wqH9KX9o0vg)
