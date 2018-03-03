@@ -5,8 +5,18 @@
 * [Guide-Essay](#guide-essay)
 * [Eğitim-ComputerScience](#egitim)
 * [Devre Teorisi](#devreteorisi)
+
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+
+### Makaleler
+* [What is an IP Address ?](https://www.lifewire.com/what-is-an-ip-address-2625920)
+* [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
+* [The Essential Guide to Take-home Coding Challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
+
+### Guide-Essay
+* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
+
 
 ### Videolar
 * [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
@@ -15,18 +25,12 @@
 * [History Of The Digital Camera](https://www.youtube.com/watch?v=PwHQnCoDbvI)
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 * [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
-* [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
-* [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 
-### Makaleler
-* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
-### Guide-Essay
-* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
 
 ###  Egitim
-* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
-
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+* [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
 
 ### DevreTeorisi
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
