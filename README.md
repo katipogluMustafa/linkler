@@ -24,9 +24,10 @@
 * [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
 * [The Essential Guide to Take-home Coding Challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
 
+
 ### Guide-Essay
 * [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
-
+* [Change Your Brain Change Your Mind](https://www.psychologytoday.com/blog/the-mindful-self-express/201109/changing-your-brain-changing-your-mind)
 
 ### Videolar
 
