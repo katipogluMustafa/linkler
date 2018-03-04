@@ -8,6 +8,10 @@
 * [Matematik](#matematik)
 * [Devre Teorisi](#devreteorisi)
 
+### Applications
+* [WunderList](http://www.wunderlist.com)
+* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
+
 
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
@@ -38,6 +42,8 @@
 ###  Egitim
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
+* [Kapsamlı Kurs Platformu -- Çoğu kursu ücretsiz~Sertifika Almamak şartıyla](edx.org)
+
 
 ### Matematik
 
