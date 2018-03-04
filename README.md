@@ -1,33 +1,12 @@
-# linkler
 
-* [Applications](#applications)
-* [Bilgisayar Ders](#bilgisayar-ders)
-* [Makaleler](#makaleler)
-* [Guide-Essay](#guide-essay)
-* [Blogs ~ Websites](#blogs)
-* [Eğitim-ComputerScience](#egitim)
-* [Matematik](#matematik)
-* [Devre Teorisi](#devreteorisi)
+### Matematik
 
-### Applications
-* [WunderList](http://www.wunderlist.com)
-* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
+* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
+* [Seriler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOFRGALB4Dmy01K0zjeXmfsN)
 
-
-### Bilgisayar Ders
-* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-
-### Makaleler
-
-* [Computer graphics](http://www.explainthatstuff.com/computer-graphics.html)
-* [What is an IP Address ?](https://www.lifewire.com/what-is-an-ip-address-2625920)
-* [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
-* [The Essential Guide to Take-home Coding Challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
-
-
-### Guide-Essay
-* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
-* [Change Your Brain Change Your Mind](https://www.psychologytoday.com/blog/the-mindful-self-express/201109/changing-your-brain-changing-your-mind)
+* [Seriler Altenatif](https://www.youtube.com/playlist?list=PLcNWqzWzYG2vv27NxJmB0msyWDaXRzoTY)
+   Bu hocayı minimum 1.5x hızda izlemek tavsiye edilir...
+* [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
 ### Videolar
 
@@ -39,7 +18,26 @@
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 * [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
 
-### Blogs
+
+### Applications
+* [WunderList](http://www.wunderlist.com)
+* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
+
+
+### Bilgisayar Ders
+* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+
+### Makaleler
+
+* [Computer graphics](http://www.explainthatstuff.com/computer-graphics.html)
+* [What is an IP Address ?](https://www.lifewire.com/what-is-an-ip-address-2625920)
+* [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
+* [The Essential Guide to Take-home Coding Challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
+* [A DEVELOPER'S INTRODUCTION TO GITHUB](https://flaviocopes.com/github-guide/)
+* [Change Your Brain Change Your Mind](https://www.psychologytoday.com/blog/the-mindful-self-express/201109/changing-your-brain-changing-your-mind)
+
 
 * [FreeCodeCamp Developerlarının Makale Platformu ~ Medium Kanalları](https://medium.freecodecamp.org/)
 
@@ -52,28 +50,3 @@
 * [Harvard Bilgisayar Bilimlerine Giriş Dersi Youtube Kanalı ~ CS50](https://www.youtube.com/user/cs50tv)
 * [Best Way To Start Learning Web App Programming, Self-learning](https://www.freecodecamp.org/)
 
-
-
-### Matematik
-
-* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
-* [Seriler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOFRGALB4Dmy01K0zjeXmfsN)
-
-* [Seriler Altenatif](https://www.youtube.com/playlist?list=PLcNWqzWzYG2vv27NxJmB0msyWDaXRzoTY)
-   Bu hocayı minimum 1.5x hızda izlemek tavsiye edilir...
-* [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
-
-
-### DevreTeorisi
-* [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
-* [Ders 2: Overview of Basic Circuit Components](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=779763128001)
-* [Ders 3: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=790293867001)
-* [Ders 4: Ohm's Law](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=960210893001)
-* [Ders 5: Power Calculations in Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=962239579001)
-* [Ders 6: Kirchhoff's Voltage Law](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=965106849001)
-* [Ders 7: Solving Circuits with Kirchhoff's Laws - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=973677692001)
-* [Ders 8: Solving Circuits with Kirchhoff's Laws - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=975198021001)
-* [Ders 9: Solving Circuits with Kirchhoff's Laws - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1013994248001)
-* [Ders 10: Solving Circuits with Kirchhoff's Laws - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1017555760001)
-
-Diğer Devre Dersleri için iletişime geç...
