@@ -9,10 +9,6 @@
 * [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
 
-### Applications
-* [WunderList](http://www.wunderlist.com)
-* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
-
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -44,4 +40,9 @@
 * [Binlerce Algoritma Soruları ile kendini geliştirme ~ HackerRank](www.hackerrank.com)
 * [Harvard Bilgisayar Bilimlerine Giriş Dersi Youtube Kanalı ~ CS50](https://www.youtube.com/user/cs50tv)
 * [Best Way To Start Learning Web App Programming, Self-learning](https://www.freecodecamp.org/)
+
+
+### Applications
+* [WunderList](http://www.wunderlist.com)
+* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
 
