@@ -1,10 +1,13 @@
 # linkler
 
+* [Applications](#applications)
 * [Bilgisayar Ders](#bilgisayar-ders)
 * [Makaleler](#makaleler)
 * [Guide-Essay](#guide-essay)
 * [Eğitim-ComputerScience](#egitim)
+* [Matematik](#matematik)
 * [Devre Teorisi](#devreteorisi)
+
 
 ### Bilgisayar Ders
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
@@ -36,6 +39,16 @@
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
 
+### Matematik
+
+* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
+* [Seriler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOFRGALB4Dmy01K0zjeXmfsN)
+
+* [Seriler Altenatif](https://www.youtube.com/playlist?list=PLcNWqzWzYG2vv27NxJmB0msyWDaXRzoTY)
+   Bu hocayı minimum 1.5x hızda izlemek tavsiye edilir...
+* [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
+
+
 ### DevreTeorisi
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
 * [Ders 2: Overview of Basic Circuit Components](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=779763128001)
@@ -47,3 +60,5 @@
 * [Ders 8: Solving Circuits with Kirchhoff's Laws - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=975198021001)
 * [Ders 9: Solving Circuits with Kirchhoff's Laws - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1013994248001)
 * [Ders 10: Solving Circuits with Kirchhoff's Laws - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1017555760001)
+
+Diğer Devre Dersleri için iletişime geç...
