@@ -40,7 +40,7 @@
 
 ### Blogs
 
-* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
+* [FreeCodeCamp Developerlarının Makale Platformu ~ Medium Kanalları](https://medium.freecodecamp.org/)
 
 ###  Egitim
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
