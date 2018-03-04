@@ -8,7 +8,16 @@
    Bu hocayı minimum 1.5x hızda izlemek tavsiye edilir...
 * [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
-### Videolar
+
+### Applications
+* [WunderList](http://www.wunderlist.com)
+* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
+
+### Bilgisayar Ders
+* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+### Science - Computer Science
 
 * [What is Computer Graphics ?](https://www.youtube.com/watch?v=tW30D4KXu2A)
 * [History Of The Internet](https://youtu.be/9hIQjrMHTv4)
@@ -17,20 +26,6 @@
 * [History Of The Digital Camera](https://www.youtube.com/watch?v=PwHQnCoDbvI)
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 * [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
-
-
-### Applications
-* [WunderList](http://www.wunderlist.com)
-* [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
-
-
-### Bilgisayar Ders
-* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-
-### Makaleler
-
 * [Computer graphics](http://www.explainthatstuff.com/computer-graphics.html)
 * [What is an IP Address ?](https://www.lifewire.com/what-is-an-ip-address-2625920)
 * [What Is a Command Line Interpreter ?](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827)
@@ -44,8 +39,8 @@
 ###  Egitim
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
-* [Kapsamlı Kurs Platformu -- Çoğu kursu ücretsiz~Sertifika Almamak şartıyla](edx.org)
-* [Üniversite Notları satma alma platformu ~ Türkiye](https://notedu.com/)
+* [Edx Course Platform](edx.org)
+* [Üniversite Ders Notları](https://notedu.com/)
 * [Binlerce Algoritma Soruları ile kendini geliştirme ~ HackerRank](www.hackerrank.com)
 * [Harvard Bilgisayar Bilimlerine Giriş Dersi Youtube Kanalı ~ CS50](https://www.youtube.com/user/cs50tv)
 * [Best Way To Start Learning Web App Programming, Self-learning](https://www.freecodecamp.org/)
