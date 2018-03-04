@@ -4,6 +4,7 @@
 * [Bilgisayar Ders](#bilgisayar-ders)
 * [Makaleler](#makaleler)
 * [Guide-Essay](#guide-essay)
+* [Blogs ~ Websites](#blogs)
 * [Eğitim-ComputerScience](#egitim)
 * [Matematik](#matematik)
 * [Devre Teorisi](#devreteorisi)
@@ -37,12 +38,18 @@
 * [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 * [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
 
+### Blogs
 
+* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
 
 ###  Egitim
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
 * [Kapsamlı Kurs Platformu -- Çoğu kursu ücretsiz~Sertifika Almamak şartıyla](edx.org)
+* [Üniversite Notları satma alma platformu ~ Türkiye](https://notedu.com/)
+* [Binlerce Algoritma Soruları ile kendini geliştirme ~ HackerRank](www.hackerrank.com)
+* [Harvard Bilgisayar Bilimlerine Giriş Dersi Youtube Kanalı ~ CS50](https://www.youtube.com/user/cs50tv)
+
 
 
 ### Matematik
