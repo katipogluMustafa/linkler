@@ -46,3 +46,6 @@
 * [WunderList](http://www.wunderlist.com)
 * [MathTutorDVD Mobile APP](https://itunes.apple.com/nl/app/math-and-science-tutor/id1272091364?l=en&mt=8)
 
+### Books
+* [Thomas' Calculus pdf](https://yadi.sk/i/IPYBL6Im3MuMxN)
+* [Computer Science Overview](https://yadi.sk/i/Roxlmm2S3RYXQ4)
