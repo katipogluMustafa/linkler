@@ -13,6 +13,11 @@
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
+### New Essays
+
+* [How to Protect Your Privacy in a Connected World ? ](https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/protect-privacy-connected-world/)
+
+
 ### Science - Computer Science
 
 * [What is Computer Graphics ?](https://www.youtube.com/watch?v=tW30D4KXu2A)
