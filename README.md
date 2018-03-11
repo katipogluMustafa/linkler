@@ -55,7 +55,14 @@
 ### Books
 * [Thomas' Calculus pdf](https://yadi.sk/i/IPYBL6Im3MuMxN)
 * [Computer Science Overview](https://yadi.sk/i/Roxlmm2S3RYXQ4)
+* [ENGINEERING CIRCUIT ANALYSIS](https://yadi.sk/i/vzwQtdPL3TEpUj)
+
 * [Problem Solving and Program Design in C](https://yadi.sk/i/_rQJeU3U3TEnpf)
+
+## BBG 2
+
+* [BBG2 ~ Uygulama 1 | Örnek Kodlar](https://yadi.sk/d/6wJ_LgIy3TEnok)
+
 
 ## DevreTeorisi
 ### Uygulama 1
