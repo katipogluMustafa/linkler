@@ -56,6 +56,7 @@
 * [Computer Science Overview](https://yadi.sk/i/Roxlmm2S3RYXQ4)
 
 ### DevreTeorisi
+## Uygulama 1
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
 * [Ders 2: Overview of Basic Circuit Components](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=779763128001)
 * [Ders 3: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=790293867001)
@@ -76,4 +77,25 @@
 * [Lesson 18 - Voltage Divider Circuits - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1015136690001)
 * [Lesson 19 - Voltage Divider Circuits - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1014845754001)
 * [Lesson 20 - Current Divider Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1014748108001)
+
+## Uygulama 2
+
+* [Lesson 1 - Introduction to the Node Voltage Method](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1128937857001)
+* [Lesson 2 - Node Voltage Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1146121862001)
+* [Lesson 3 - Node Voltage Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1146252628001)
+* [Lesson 4 - Node Voltage Problems - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1146208223001)
+* [Lesson 5 - Node Voltage Problems - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1190506993001)
+* [Lesson 6 - Node Voltage Problems - Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1223256218001)
+* [Lesson 7 - Node Voltage Problems with Dependent Sources - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1223416876001)
+* [Lesson 8 - Node Voltage Problems with Dependent Sources - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1223345600001)
+* [Lesson 9 - Node Voltage Problems with Dependent Sources - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1227275640001)
+* [Lesson 10 - Introduction to the Mesh Current Solution Method](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1227596012001)
+* [Lesson 11 - Mesh Current Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1227500965001)
+* [Lesson 12 - Mesh Current Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1227442374001)
+* [Lesson 13 - Mesh Current Problems - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1229734534001)
+* [Lesson 14 - Mesh Current Problems - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1229666883001)
+* [Lesson 15 - Mesh Current Problems with Dependent Sources - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1229593286001)
+* [Lesson 16 - Mesh Current Problems with Dependent Sources - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1229566178001)
+* [Lesson 17 - Mesh Current Problems with Dependent Sources - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1248781756001)
+* [Lesson 18 - Mesh Current Problems with Dependent Sources - Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1248754148001)
 
