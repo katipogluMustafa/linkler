@@ -55,8 +55,8 @@
 * [Thomas' Calculus pdf](https://yadi.sk/i/IPYBL6Im3MuMxN)
 * [Computer Science Overview](https://yadi.sk/i/Roxlmm2S3RYXQ4)
 
-### DevreTeorisi
-## Uygulama 1
+## DevreTeorisi
+### Uygulama 1
 * [Ders 1: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=774154524001)
 * [Ders 2: Overview of Basic Circuit Components](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=779763128001)
 * [Ders 3: Voltage,Current,Ressintance](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=790293867001)
@@ -78,7 +78,7 @@
 * [Lesson 19 - Voltage Divider Circuits - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1014845754001)
 * [Lesson 20 - Current Divider Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1014748108001)
 
-## Uygulama 2
+### Uygulama 2
 
 * [Lesson 1 - Introduction to the Node Voltage Method](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1128937857001)
 * [Lesson 2 - Node Voltage Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1146121862001)
