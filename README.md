@@ -59,6 +59,10 @@
 
 * [Problem Solving and Program Design in C](https://yadi.sk/i/_rQJeU3U3TEnpf)
 
+* [Yarıİletken Fiziği Ders Notları ~ YTÜ CE](https://yadi.sk/i/wFqnTUoW3TEpwe)
+
+
+
 ## BBG 2
 
 * [BBG2 ~ Uygulama 1 | Örnek Kodlar](https://yadi.sk/d/6wJ_LgIy3TEnok)
