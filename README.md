@@ -65,6 +65,7 @@
 
 ## BBG 2
 
+* [Learn C Programming](http://www.learn-c.org/)
 * [BBG2 ~ Uygulama 1 | Örnek Kodlar](https://yadi.sk/d/6wJ_LgIy3TEnok)
 
 
