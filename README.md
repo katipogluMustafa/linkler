@@ -250,22 +250,22 @@
 ### AC Uygulama 2
 
 
-* [Lesson 1 - AC Source Transformations](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1521094040001)
-* [Lesson 2 - AC Thevenin Equivalent Circuits, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980122001)
-* [Lesson 3 - AC Thevenin Equivalent Circuits, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980080001)
-* [Lesson 4 - AC Thevenin Equivalent Circuits, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536971751001)
-* [Lesson 5 - AC Thevenin Equivalent Circuits, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536932816001)
-* [Lesson 6 - AC Thevenin Equivalent Circuits, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536938841001)
-* [Lesson 7 - AC Node Voltage Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536909871001)
-* [Lesson 8 - AC Node Voltage Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536873038001)
-* [Lesson 9 - AC Node Voltage Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458702601001)
-* [Lesson 10 - AC Node Voltage Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
-* [Lesson 11 - AC Node Voltage Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536607625001)
-* [Lesson 12 - AC Mesh Current Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458705650001)
-* [Lesson 13 - AC Mesh Current Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
-* [Lesson 14 - AC Mesh Current Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
-* [Lesson 15 - AC Mesh Current Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542167332001)
-* [Lesson 16 - AC Mesh Current Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
+* [Lesson 1 - AC Source Transformations](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706959588001)
+* [Lesson 2 - AC Thevenin Equivalent Circuits, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706875904001)
+* [Lesson 3 - AC Thevenin Equivalent Circuits, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706875893001)
+* [Lesson 4 - AC Thevenin Equivalent Circuits, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706848136001)
+* [Lesson 5 - AC Thevenin Equivalent Circuits, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706875864001)
+* [Lesson 6 - AC Thevenin Equivalent Circuits, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706807350001)
+* [Lesson 7 - AC Node Voltage Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706848098001)
+* [Lesson 8 - AC Node Voltage Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706807331001)
+* [Lesson 9 - AC Node Voltage Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706773315001)
+* [Lesson 10 - AC Node Voltage Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706773302001)
+* [Lesson 11 - AC Node Voltage Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706848056001)
+* [Lesson 12 - AC Mesh Current Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706773277001)
+* [Lesson 13 - AC Mesh Current Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706742385001)
+* [Lesson 14 - AC Mesh Current Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706742373001)
+* [Lesson 15 - AC Mesh Current Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706742366001)
+* [Lesson 16 - AC Mesh Current Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=4706771410001)
 
 
 ### AC Uygulama 3
