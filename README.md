@@ -246,3 +246,51 @@
 * [Lesson 19 - Solving AC Circuits with Phasors, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
 * [Lesson 20 - Solving AC Circuits with Phasors, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
 * [Lesson 21 - Solving AC Circuits with Phasors, Part 6](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+
+### AC Uygulama 2
+
+
+* [Lesson 1 - AC Source Transformations](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1521094040001)
+* [Lesson 2 - AC Thevenin Equivalent Circuits, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980122001)
+* [Lesson 3 - AC Thevenin Equivalent Circuits, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980080001)
+* [Lesson 4 - AC Thevenin Equivalent Circuits, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536971751001)
+* [Lesson 5 - AC Thevenin Equivalent Circuits, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536932816001)
+* [Lesson 6 - AC Thevenin Equivalent Circuits, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536938841001)
+* [Lesson 7 - AC Node Voltage Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536909871001)
+* [Lesson 8 - AC Node Voltage Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536873038001)
+* [Lesson 9 - AC Node Voltage Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458702601001)
+* [Lesson 10 - AC Node Voltage Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
+* [Lesson 11 - AC Node Voltage Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536607625001)
+* [Lesson 12 - AC Mesh Current Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458705650001)
+* [Lesson 13 - AC Mesh Current Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
+* [Lesson 14 - AC Mesh Current Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+* [Lesson 15 - AC Mesh Current Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542167332001)
+* [Lesson 16 - AC Mesh Current Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
+
+
+### AC Uygulama 3
+
+
+* [Lesson 1 - Instantaneous Power in AC Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1521094040001)
+* [Lesson 2 - Average Power Definition](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980122001)
+* [Lesson 3 - Real Power Definition](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980080001)
+* [Lesson 4 - Reactive Power with Inductive Load](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536971751001)
+* [Lesson 5 - Reactive Power with Capacitive Load](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536932816001)
+* [Lesson 6 - Real and Reactive Power Together](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536938841001)
+* [Lesson 7 - Units of Real and Reactive Power](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536909871001)
+* [Lesson 8 - Power Factor and Reactive Factor](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536873038001)
+* [Lesson 9 - Real and Reactive Power Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458702601001)
+* [Lesson 10 - Real and Reactive Power Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
+* [Lesson 11 - RMS Value in Power Calculations](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536607625001)
+* [Lesson 12 - Complex Power Theory, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458705650001)
+* [Lesson 13 - Complex Power Theory, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
+* [Lesson 14 - Complex Power Theory, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+* [Lesson 15 - Complex Power Problems, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542167332001)
+* [Lesson 16 - Complex Power Problems, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
+* [Lesson 17 - Complex Power Problems, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536607625001)
+* [Lesson 18 - Complex Power Problems, Part 4](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458705650001)
+* [Lesson 19 - Complex Power Problems, Part 5](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
+* [Lesson 20 - Complex Power Problems, Part 6](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+* [Lesson 21 - Maximum Power Transfer, Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+* [Lesson 22 - Maximum Power Transfer, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
+* [Lesson 23 - Maximum Power Transfer, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
