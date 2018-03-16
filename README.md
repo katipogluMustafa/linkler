@@ -159,21 +159,21 @@
 ### DC Uygulama 5
 
 
-* [Lesson 1 - Introduction to Natural and Step Response](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1521094040001)
-* [Lesson 2 - Natural Response of an LR Circuit](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980122001)
-* [Lesson 3 - Time Constant of an LR Circuit](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536980080001)
-* [Lesson 4 - LR Natural Response Circuit Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536971751001)
-* [Lesson 5 - LR Natural Response Circuit Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536932816001)
-* [Lesson 6 - LR Natural Response Circuit Problems - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536938841001)
-* [Lesson 7 - Natural Response of RC Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536909871001)
-* [Lesson 8 - RC Natural Response Circuit Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536873038001)
-* [Lesson 9 - RC Natural Response Circuit Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458702601001)
-* [Lesson 10 - Step Response of RL Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536839776001)
-* [Lesson 11 - LR Step Response Circuit Problem](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1536607625001)
-* [Lesson 12 - Step Response of RC Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5458705650001)
-* [Lesson 13 - RC Step Response Circuit Problem](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121617001)
-* [Lesson 14 - General Solution for Step and Natural Response](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542121610001)
-* [Lesson 15 - Use General Form to Solve Circuit Problems](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=1542167332001)
+* [Lesson 1 - Introduction to Natural and Step Response](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294423280001)
+* [Lesson 2 - Natural Response of an LR Circuit](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294344162001)
+* [Lesson 3 - Time Constant of an LR Circuit](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294268101001)
+* [Lesson 4 - LR Natural Response Circuit Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294243110001)
+* [Lesson 5 - LR Natural Response Circuit Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294100456001)
+* [Lesson 6 - LR Natural Response Circuit Problems - Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2294046052001)
+* [Lesson 7 - Natural Response of RC Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2293950328001)
+* [Lesson 8 - RC Natural Response Circuit Problems - Part 1](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311120566001)
+* [Lesson 9 - RC Natural Response Circuit Problems - Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311120627001)
+* [Lesson 10 - Step Response of RL Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311117960001)
+* [Lesson 11 - LR Step Response Circuit Problem](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311004197001)
+* [Lesson 12 - Step Response of RC Circuits](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311000339001)
+* [Lesson 13 - RC Step Response Circuit Problem](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2311000314001)
+* [Lesson 14 - General Solution for Step and Natural Response](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2310895933001)
+* [Lesson 15 - Use General Form to Solve Circuit Problems](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=2310890450001)
 
 ### DC Uygulama 6
 
