@@ -8,15 +8,20 @@
 * [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
 
-### Bilgisayar Ders
-* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### New Essays
 
-* [How to Protect Your Privacy in a Connected World ? ](https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/protect-privacy-connected-world/)
+
 * [How to master and control your emotions to be more successful](https://medium.com/the-mission/how-to-master-and-control-your-emotions-based-from-thirty-plus-years-of-brain-research-66def1f19c9e)
 * [Kendi Hayatının CEOsu olmak](https://medium.com/t%C3%BCrkiye/kendi-hayat%C4%B1n%C4%B1n-ceosu-olmak-6f7b36147530)
+
+* [How to be a successful engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
+
+### New Videos
+
+* [Change Your Brain Change Your Life ~ Ted Talk](https://www.youtube.com/watch?v=MLKj1puoWCg)
+* [Shenzhen: The Silicon Valley of Hardware ~ Documentary](https://www.youtube.com/watch?v=SGJ5cZnoodY)
+
 
 ### Science - Computer Science
 
@@ -36,6 +41,11 @@
 
 
 * [FreeCodeCamp Developerlarının Makale Platformu ~ Medium Kanalları](https://medium.freecodecamp.org/)
+
+### Bilgisayar Ders
+* [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
 
 ###  Egitim
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
