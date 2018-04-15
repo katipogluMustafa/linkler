@@ -1,11 +1,8 @@
 
 ### Matematik
 
-* [Diziler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOEN1UW1P3YMsumXTIyP9r0W)
-* [Seriler Playlist](https://www.youtube.com/playlist?list=PL4X0pEzmVyOFRGALB4Dmy01K0zjeXmfsN)
-
-* [Seriler Altenatif](https://www.youtube.com/playlist?list=PLcNWqzWzYG2vv27NxJmB0msyWDaXRzoTY)
-   Bu hocayı minimum 1.5x hızda izlemek tavsiye edilir...
+* [Vektör Değerli Fonksiyon , Çok Değişkenli Fonksiyon , Kısmi Türev ~ BUDERS](http://www.bumatematikozelders.com/altsayfa/calculus_2_matematik_ders_videolari.html)
+*[Çok değişkenli Fonksiyonlar ~ Matematiksel Terapi](https://www.youtube.com/playlist?list=PL4X0pEzmVyOGxElhbdLLxLRxpEwbzdYN9)
 * [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
 
