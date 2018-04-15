@@ -2,7 +2,9 @@
 ### Matematik
 
 * [Vektör Değerli Fonksiyon , Çok Değişkenli Fonksiyon , Kısmi Türev ~ BUDERS](http://www.bumatematikozelders.com/altsayfa/calculus_2_matematik_ders_videolari.html)
-*[Çok değişkenli Fonksiyonlar ~ Matematiksel Terapi](https://www.youtube.com/playlist?list=PL4X0pEzmVyOGxElhbdLLxLRxpEwbzdYN9)
+
+* [Çok değişkenli Fonksiyonlar ~ Matematiksel Terapi](https://www.youtube.com/playlist?list=PL4X0pEzmVyOGxElhbdLLxLRxpEwbzdYN9)
+
 * [Mat 2 Notlar ~ Pına Hoca](http://avesis.yildiz.edu.tr/pkanar/dokumanlar)
 
 
@@ -13,7 +15,8 @@
 ### New Essays
 
 * [How to Protect Your Privacy in a Connected World ? ](https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/protect-privacy-connected-world/)
-
+* [How to master and control your emotions to be more successful](https://medium.com/the-mission/how-to-master-and-control-your-emotions-based-from-thirty-plus-years-of-brain-research-66def1f19c9e)
+* [Kendi Hayatının CEOsu olmak](https://medium.com/t%C3%BCrkiye/kendi-hayat%C4%B1n%C4%B1n-ceosu-olmak-6f7b36147530)
 
 ### Science - Computer Science
 
