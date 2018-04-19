@@ -307,7 +307,7 @@
 * [Lesson 22 - Maximum Power Transfer, Part 2](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5125335398001)
 * [Lesson 23 - Maximum Power Transfer, Part 3](http://players.brightcove.net/61991422001/HkbyY7lWgW_default/index.html?videoId=5125332695001)
 
-Unutma :
+
 * [Devre - Fizik Animasyonlar](https://www.youtube.com/channel/UCJ0yBou72Lz9fqeMXh9mkog)
 
-
+*[Pspice](http://tuttle.merc.iastate.edu/ee201/spice/pspice_transient.pdf)
