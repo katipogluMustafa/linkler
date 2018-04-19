@@ -1,6 +1,8 @@
 
 ### Matematik
 
+* [Vektör,Uzayda Vektör,Vekde Değerli Fonk,Çok Değişkenli Fonk](https://www.youtube.com/watch?v=tXm2lwJnHLo&list=PL4bZBI_tvM9D43yPw27TFqG56j1YFs9Vd)
+
 * [Vektör Değerli Fonksiyon , Çok Değişkenli Fonksiyon , Kısmi Türev ~ BUDERS](http://www.bumatematikozelders.com/altsayfa/calculus_2_matematik_ders_videolari.html)
 
 * [Çok değişkenli Fonksiyonlar ~ Matematiksel Terapi](https://www.youtube.com/playlist?list=PL4X0pEzmVyOGxElhbdLLxLRxpEwbzdYN9)
