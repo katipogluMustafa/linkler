@@ -1,4 +1,4 @@
-### Assembly
+### Assembly Language
 
 [Introduction to 80x86 Assembly Language and Computer Architecture](https://www.safaribooksonline.com/library/view/introduction-to-80x86/9781284036121/)
 
@@ -6,27 +6,19 @@
 
 ### C Programming
 
+#### Books
+
 [Learn C the Hard Way: A Clear & Direct Introduction To Modern C Programming](https://www.safaribooksonline.com/library/view/learn-c-the/9780133124385/)
+
+#### Videos
 
 [Learn C the Hard Way (Companion Videos)](https://www.safaribooksonline.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex1)
 
 ---
 
-### Go Programming
-
-[Ultimate Go Programming By William Kennedy](https://www.safaribooksonline.com/videos/ultimate-go-programming/9780135261651/9780135261651-UGP2_01_01_02)
-
-[Web Development With Go Programming Language](https://www.udemy.com/go-programming-language)
-
-[Go: Design Patterns for Real-World Projects](https://www.safaribooksonline.com/library/view/go-design-patterns/9781788390552/)
-
-[Go in Action](https://www.safaribooksonline.com/library/view/go-in-action/9781617291784/)
-
-[Mastering Go](https://www.safaribooksonline.com/library/view/mastering-go/9781788626545/)
-
----
-
 ### Signals and Systems
+
+#### Books
 
 [Fundamentals of Signals and Systems Using the Web and MATLAB 3rd Edition](https://yadi.sk/i/4b7C7wngqs5T1w)
 
@@ -67,6 +59,23 @@
 
 ---
 
+### Go Programming
+
+#### Videos
+
+[Ultimate Go Programming By William Kennedy](https://www.safaribooksonline.com/videos/ultimate-go-programming/9780135261651/9780135261651-UGP2_01_01_02)
+
+[Web Development With Go Programming Language](https://www.udemy.com/go-programming-language)
+
+[Go: Design Patterns for Real-World Projects](https://www.safaribooksonline.com/library/view/go-design-patterns/9781788390552/)
+
+#### Books
+
+[Go in Action](https://www.safaribooksonline.com/library/view/go-in-action/9781617291784/)
+
+[Mastering Go](https://www.safaribooksonline.com/library/view/mastering-go/9781788626545/)
+
+---
 
 ### New Videos
 
