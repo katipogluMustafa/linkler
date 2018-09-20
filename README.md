@@ -28,9 +28,10 @@
 
 ### Signals and Systems
 
+[Fundamentals of Signals and Systems Using the Web and MATLAB 3rd Edition](https://yadi.sk/i/4b7C7wngqs5T1w)
+
 [Signals and Systems For Dummies](https://www.safaribooksonline.com/library/view/signals-and-systems/9781118475669/03_9781118475669-intro.html)
 
-[Signals and Systems by](Signals and Systems)
 
 ---
 
