@@ -31,7 +31,15 @@
 
 ### Logic And Computer Design
 
+#### Videos
+[Digital Logic by Jack Buffington](https://www.youtube.com/playlist?list=PLyG2VxFPjWqDDbo1FKEvzMvj33fI22weJ)
+[Digital Electronics By Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+
+#### Books
+
 [Logic and Computer Design Fundamental 5th Edition by Morris Mano](https://yadi.sk/i/LxXSezTgPSSi7A)
+[Digital Design by M. Moris Mano](http://www.portcity.edu.bd/ELibrary/CSE/Digitallogicdesign.pdf)
+[Digital Logic Design, 4th Edition](https://www.safaribooksonline.com/library/view/digital-logic-design/9780750645829/)
 
 ### New Videos
 
