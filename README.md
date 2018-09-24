@@ -10,6 +10,8 @@
 
 [Learn C the Hard Way: A Clear & Direct Introduction To Modern C Programming](https://www.safaribooksonline.com/library/view/learn-c-the/9780133124385/)
 
+[The C Programming Language, Second Edition by Dennis M. Ritchie](https://www.safaribooksonline.com/library/view/the-c-programming/9780133086249/)
+
 #### Videos
 
 [Learn C the Hard Way (Companion Videos)](https://www.safaribooksonline.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex1)
@@ -88,7 +90,6 @@
 * [FreeCodeCamp Developerlarının Makale Platformu ~ Medium Kanalları](https://medium.freecodecamp.org/)
 * [Harvard , Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-* [Wesley Programming Books - Create new account every 10 days, its all free](safaribooksonline.com)
 
 ### Learn Programming
 * [HackerRank](https://www.hackerrank.com/)
