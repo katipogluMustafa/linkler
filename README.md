@@ -24,6 +24,8 @@
 
 [Fundamentals of Signals and Systems Using the Web and MATLAB 3rd Edition](https://yadi.sk/i/4b7C7wngqs5T1w)
 
+[Lesson Materials | Nizametting Aydın](SignalsAndSystems.zip)
+
 [Signals and Systems For Dummies](https://www.safaribooksonline.com/library/view/signals-and-systems/9781118475669/03_9781118475669-intro.html)
 
 
