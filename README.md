@@ -12,6 +12,8 @@
 
 [The C Programming Language, Second Edition by Dennis M. Ritchie](https://www.safaribooksonline.com/library/view/the-c-programming/9780133086249/)
 
+[Intermediate C Programming](https://www.safaribooksonline.com/library/view/intermediate-c-programming/9781498711647/)
+
 #### Videos
 
 [Learn C the Hard Way (Companion Videos)](https://www.safaribooksonline.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex1)
