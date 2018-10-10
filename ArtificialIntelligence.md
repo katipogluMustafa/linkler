@@ -5,6 +5,7 @@
 ### Video Sets
 
 Machine Learning For Absolute Beginners by Eduonix Learning Solutions
+
 Introduction to Artificial Intelligence with Java by Nisheeth Joshi
 
 ### Books
