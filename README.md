@@ -36,9 +36,13 @@
 ### Logic And Computer Design
 
 #### Videos
+[Intro To Digital Logic by Derek Johnston](https://www.youtube.com/playlist?list=PLcMkG40Rhzz7qJ89UXDh4SqFEB6S14Ash)
+
 [Digital Logic by Jack Buffington](https://www.youtube.com/playlist?list=PLyG2VxFPjWqDDbo1FKEvzMvj33fI22weJ)
 
 [Digital Electronics By Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+
+
 
 
 #### Book
