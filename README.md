@@ -87,6 +87,10 @@
 
 ---
 
+### BASH
+
+[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+
 ### New Videos
 
 * [How Linux is Built](https://www.youtube.com/watch?v=yVpbFMhOAwE)
