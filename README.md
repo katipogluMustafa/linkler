@@ -91,6 +91,15 @@
 
 [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 
+---
+
+### Linux
+
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+
+
+---
+
 ### New Videos
 
 * [How Linux is Built](https://www.youtube.com/watch?v=yVpbFMhOAwE)
