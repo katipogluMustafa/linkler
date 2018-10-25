@@ -100,6 +100,11 @@
 
 ---
 
+### Networking
+
+[Head First Networking](https://www.safaribooksonline.com/library/view/head-first-networking/9780596804398/)
+
+
 ### New Videos
 
 * [How Linux is Built](https://www.youtube.com/watch?v=yVpbFMhOAwE)
