@@ -63,6 +63,7 @@
   * [Discrete Mathematics Playlist 1](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
   * [Discrete Mathematics Playlist 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 
+* [MIT Discrete Math FOR CS Students](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 #### Books
 
 [Essentials of Discrete Mathematics, 3rd Edition](https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056242/)
