@@ -1,3 +1,13 @@
+## 1.Vizeler
+
+[Signals Playlist 1](https://www.youtube.com/playlist?list=PL5D4A7494C03A0227)
+
+[Signals Playlist 2](https://www.youtube.com/playlist?list=PLvJZZcg6Js7qrVp2VMnNutIg9Fj7qq1mE)
+
+[Discrete Math](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+
+
+
 ### Assembly Language
 
 [Introduction to 80x86 Assembly Language and Computer Architecture](https://www.safaribooksonline.com/library/view/introduction-to-80x86/9781284036121/)
