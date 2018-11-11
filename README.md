@@ -64,10 +64,14 @@
   * [Discrete Mathematics Playlist 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 
 * [MIT Discrete Math FOR CS Students](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
 #### Books
 
 [Essentials of Discrete Mathematics, 3rd Edition](https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056242/)
 
+### Other Resources
+
+[ Discrete Math - GeekForGeeks](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/)
 ---
 
 ### Go Programming
