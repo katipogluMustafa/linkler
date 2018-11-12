@@ -4,6 +4,8 @@
 
 [Signals Playlist 2](https://www.youtube.com/playlist?list=PLvJZZcg6Js7qrVp2VMnNutIg9Fj7qq1mE)
 
+[Signals And Systems](https://www.youtube.com/user/agpanagos/playlists)
+
 [Discrete Math](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
 [Differential Equations ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
