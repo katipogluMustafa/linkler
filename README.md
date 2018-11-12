@@ -6,7 +6,7 @@
 
 [Discrete Math](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
-
+[Differential Equations ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 
 ### Assembly Language
 
