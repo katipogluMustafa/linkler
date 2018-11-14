@@ -30,6 +30,7 @@
 
 [Learn C the Hard Way (Companion Videos)](https://www.safaribooksonline.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex1)
 
+[Advanced C Programming](https://www.safaribooksonline.com/videos/advanced-c-programming/01220110004SI)
 ---
 
 ### Signals and Systems
