@@ -1,15 +1,3 @@
-## 1.Vizeler
-
-[Signals Playlist 1](https://www.youtube.com/playlist?list=PL5D4A7494C03A0227)
-
-[Signals Playlist 2](https://www.youtube.com/playlist?list=PLvJZZcg6Js7qrVp2VMnNutIg9Fj7qq1mE)
-
-[Signals And Systems](https://www.youtube.com/user/agpanagos/playlists)
-
-[Discrete Math](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
-
-[Differential Equations ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
-
 ### Assembly Language
 
 [Introduction to 80x86 Assembly Language and Computer Architecture](https://www.safaribooksonline.com/library/view/introduction-to-80x86/9781284036121/)
@@ -30,21 +18,19 @@
 
 [Learn C the Hard Way (Companion Videos)](https://www.safaribooksonline.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex1)
 
-[Advanced C Programming](https://www.safaribooksonline.com/videos/advanced-c-programming/01220110004SI)
+[Advanced C Programming](https://www.safaribooksonline.com/videos/advanced-c-programming/01220110004SI),
+
 ---
 
 ### Signals and Systems
 
-#### Books
+* Schaum'sOutlines
 
-[Fundamentals of Signals and Systems Using the Web and MATLAB 3rd Edition](https://yadi.sk/i/4b7C7wngqs5T1w)
+[Signals Playlist 1](https://www.youtube.com/playlist?list=PL5D4A7494C03A0227)
 
-[Lesson Materials | Nizametting Aydın](SignalsAndSystems.zip)
+[Signals Playlist 2](https://www.youtube.com/playlist?list=PLvJZZcg6Js7qrVp2VMnNutIg9Fj7qq1mE)
 
-[Signals and Systems For Dummies](https://www.safaribooksonline.com/library/view/signals-and-systems/9781118475669/03_9781118475669-intro.html)
-
-
----
+[Signals And Systems](https://www.youtube.com/user/agpanagos/playlists)
 
 ### Logic And Computer Design
 
@@ -55,12 +41,7 @@
 
 [Digital Electronics By Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
-
-
-
 #### Book
-
-[Logic and Computer Design Fundamental 5th Edition by Morris Mano](https://yadi.sk/i/LxXSezTgPSSi7A)
 
 [Digital Design by M. Moris Mano](http://www.portcity.edu.bd/ELibrary/CSE/Digitallogicdesign.pdf)
 
@@ -70,21 +51,33 @@
 
 ### Discrete Mathematics
 
-#### Video
-
-* [Discrete Mathematics by trevtutor](https://trevtutor.com/discretemath/)
-  * [Discrete Mathematics Playlist 1](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-  * [Discrete Mathematics Playlist 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
-
-* [MIT Discrete Math FOR CS Students](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
-
-#### Books
-
 [Essentials of Discrete Mathematics, 3rd Edition](https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056242/)
+
+
+[MIT Discrete Math FOR CS Students](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
 ### Other Resources
 
 [ Discrete Math - GeekForGeeks](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/)
+
+---
+
+### BASH
+
+[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+
+### Linux
+
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+
+[Vim Masterclass](https://www.safaribooksonline.com/videos/vim-masterclass/9781789955194)
+
+[Linux Administration Bootcamp: Go from Beginner to Advanc](https:\\www.safaribooksonline.com/videos/linux-administration-bootcamp/978178961218)
+
+[Bash Scripting and Shell Programming ~ Linux Command Line ](https://www.safaribooksonline.com/videos/bash-scripting-and/9781789807073)
+
+[Linux Tutorial](https://www.safaribooksonline.com/videos/learn-linux-in/9781789802610)
+
 
 ---
 
@@ -106,25 +99,13 @@
 
 ---
 
-### BASH
-
-[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
-
----
-
-### Linux
-
-[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
-
-
----
 
 ### Networking
 
 [Head First Networking](https://www.safaribooksonline.com/library/view/head-first-networking/9780596804398/)
 
 
-### New Videos
+### Videos
 
 * [How Linux is Built](https://www.youtube.com/watch?v=yVpbFMhOAwE)
 
