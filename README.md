@@ -118,6 +118,7 @@
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### Learn Programming
+* [Bilkent Online](http://video.bilkent.edu.tr/department_menu.php?lang=en)
 * [HackerRank](https://www.hackerrank.com/)
 * [Find The Best Online Courses - Course Search Engine ](https://hackr.io/)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
